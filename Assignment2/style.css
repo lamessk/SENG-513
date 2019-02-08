@@ -1,0 +1,40 @@
+.container {
+    margin-top: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    padding: 15px;
+}
+
+.screen {
+    width:95%;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    margin: 5px;
+    padding-right: 5px;
+}
+
+#previous {
+    float: right;
+    height: 20px;
+    margin-right: 2%;
+    width: 50%;
+    margin-top:5px;
+    color: grey;
+
+}
+
+.btn-secondary {
+    background-color: darkgrey;
+}
+
+.container{
+    width: 600px;
+}
+
+.btn{
+    width:100%;
+    margin-top: 5px;
+    box-shadow: 2px 2px 2px dimgrey;
+}
